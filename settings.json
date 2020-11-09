@@ -1,1 +1,2 @@
-{"settings":{"opentillrate":2}}
+{"settings":{"opentillrate":10,
+            delayratequestion:5}}
