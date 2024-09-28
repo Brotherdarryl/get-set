@@ -1,1 +1,10 @@
-
+{
+    "success": true,
+    "terms": "https://currencylayer.com/terms",
+    "privacy": "https://currencylayer.com/privacy",
+    "timestamp": 1727533143,
+    "source": "USD",
+    "quotes": {
+        "USDAUD": 1.446969
+    }
+}
