@@ -2,9 +2,14 @@
     "success": true,
     "terms": "https://currencylayer.com/terms",
     "privacy": "https://currencylayer.com/privacy",
-    "timestamp": 1727533143,
+    "timestamp": 1727557875,
     "source": "USD",
     "quotes": {
-        "USDAUD": 1.446969
+        "USDAUD": 1.446969,
+        "USDBGN": 1.751115,
+        "USDBRL": 5.433904,
+        "USDCAD": 1.35235,
+        "USDCHF": 0.841224,
+        "USDCNY": 7.011704
     }
 }
